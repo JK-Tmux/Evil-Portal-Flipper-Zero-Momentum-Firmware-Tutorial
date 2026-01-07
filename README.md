@@ -29,7 +29,7 @@ There are a ton of pre-set HTML files available through Momentum firmware.
 
 For more visit repo below:
 
-HTML files for Evil Portal: https://github.com/bigbrodude6119/flipper-zero-evil-portal/tree/main/portals (Recommended by justcallmekoko)
+Good source for HTML files for Evil Portal: https://github.com/bigbrodude6119/flipper-zero-evil-portal/tree/main/portals 
 
 Add HTML files to SD Card/apps_data/evil_portal (qFlipper)
 
