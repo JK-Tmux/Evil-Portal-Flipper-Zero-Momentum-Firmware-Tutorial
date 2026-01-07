@@ -31,5 +31,5 @@ For more visit repo below:
 
 Good source for HTML files for Evil Portal: https://github.com/bigbrodude6119/flipper-zero-evil-portal/tree/main/portals 
 
-Add HTML files to SD Card/apps_data/evil_portal (qFlipper)
-
+Using qFlipper, place your HTML files in the following directory on the SD card:
+SD Card/apps_data/evil_portal
